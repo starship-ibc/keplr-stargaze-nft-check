@@ -24,4 +24,12 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+  margin: 1em;
+}
+
+button {
+  padding: 0.5em;
+  border: 1px solid white;
+  border-radius: 0.25em;
+  margin-top: 1em;
 }
